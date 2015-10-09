@@ -1,5 +1,7 @@
 # Starter for Gulp
 
+[![Dependency Status](https://www.versioneye.com/user/projects/5617e18fa193340f2f000245/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5617e18fa193340f2f000245)
+
 This is my very basic setup with gulp. It compiles sass, watches css files, and uses browsersync.
 
 - [Gulp](http://gulpjs.com/)
