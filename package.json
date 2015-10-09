@@ -1,0 +1,10 @@
+{
+  "name": "gulp-starter",
+  "version": "0.1.0",
+  "description": "Starter for gulp",
+  "devDependencies": {
+    "browser-sync": "^2.9.10",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
